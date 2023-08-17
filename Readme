@@ -1,0 +1,14 @@
+## README
+
+## Version Control System
+- What is it?
+- Why do we need it?
+- Git vs GitHub
+- Git: Basic Commands
+- Creating your own repository 
+- Pull Request
+
+## Configuration
+git config --global user.name "your_github_username"
+git config --global user.email "your_github_email@example.com"
+
